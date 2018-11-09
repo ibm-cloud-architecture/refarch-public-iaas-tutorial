@@ -7,7 +7,7 @@ This repository contains the content for a tutorial focused on using automation 
 The example architecture includes compute, networks, storage, and security and use of IBM Cloud provider for Terraform. 
 
 
-![Reference architecture](https://github.com/ibm-cloud-architecture/refarch-public-iaas-tutorial)
+![Reference architecture](https://github.com/ibm-cloud-architecture/refarch-public-iaas-tutorial/blob/master/imgs/labarch.png)
 
 
 ## Content
