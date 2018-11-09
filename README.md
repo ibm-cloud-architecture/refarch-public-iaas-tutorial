@@ -7,13 +7,13 @@ This repository contains the content for a tutorial focused on using automation 
 The example architecture includes compute, networks, storage, and security and use of IBM Cloud provider for Terraform. 
 
 
-![Reference architecture](https://github.ibm.com/WCPDigitalSupport/Tutorial/blob/master/imgs/labarch.png)
+![Reference architecture](https://github.com/ibm-cloud-architecture/refarch-public-iaas-tutorial)
 
 
 ## Content
 The scripts for this tutorial deploys a basic pattern of virtual machines as multi-tenant instances and provides for increaing the number of virtual servers at deployment time. 
 
-- [Tutorial document](https://github.ibm.com/WCPDigitalSupport/Tutorial/tree/master/tutorial_doc)
+- [Tutorial document](https://github.com/ibm-cloud-architecture/refarch-public-iaas-tutorial/tree/master/tutorial_doc)
 
-- [Terraform Code](https://github.ibm.com/WCPDigitalSupport/Tutorial/tree/master/terraform)
+- [Terraform Code](https://github.com/ibm-cloud-architecture/refarch-public-iaas-tutorial/tree/master/terraform)
 
