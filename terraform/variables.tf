@@ -53,7 +53,7 @@ variable availability_zone {
   default = ""
 }
 
-variable region {
+variable ibm_region {
   description = "IBM Cloud region"
   default = ""
 }
